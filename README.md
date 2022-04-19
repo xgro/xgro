@@ -21,9 +21,20 @@ My major is **electronic engineering**, I have project exprience using C, Python
 </td></tr>
 <br/> 
 <br/> 
+
+
+
+##  🎶 Codestates DevOps Bootcamp
+
+| Week | 진행도 | 커리큘럼 내용 |
+| ------ | --- | ----------- |
+| 1주차 | ☑️ | [서비스 운영 기초] 개발 프로세스와 DevOps 업무 개요 |
+| 2주차 | | [서비스 운영 기초] 리눅스 운영체제 |
+
+조금씩 나아가는중...
 <br/> 
-
-
+<br/> 
+<br/> 
 
 ## Github Stats  
 <table><tr><td valign="top" width="40%" >
