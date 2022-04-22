@@ -28,9 +28,8 @@ My major is **electronic engineering**, I have project exprience using C, Python
 
 | Week | 진행도 | 커리큘럼 내용 |
 | ------ | --- | ----------- |
-| 1주차 | ☑️ | [서비스 운영 기초] 개발 프로세스와 DevOps 업무 개요 |
-| 2주차 | ☑️ | 리눅스 운영체제 |
-| 3주차 |     | 웹서비스 개발 기초 |
+| 1주차 | ☑️ | **개발 프로세스와 DevOps 업무 개요,    리눅스 운영체제**  |
+| 2주차 |   | **웹서비스 개발 기초** |
 
 
 <br/> 
