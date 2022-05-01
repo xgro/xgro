@@ -3,7 +3,10 @@
 ## Hi there 👋, I'm xgro!  
 
 ### **Thank you to visit my Github, My name is Jaechan. Glad to see you here!** 
-My major is **electronic engineering**, I have project exprience using C, Python, Labview language. I'm interested in DevOps. I am preparing for a job change as a **DevOps engineer** and participating in a Codestates-bootcamp.
+- My major is **electronic engineering**
+- I have project exprience using C, Python, Labview language.
+- I'm interested in **DevOps.**   
+- I am preparing for a job change as a **DevOps engineer** and participating in a **Codestates-bootcamp.**
 
 </br>
 
