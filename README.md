@@ -1,16 +1,20 @@
 <!-- **xgro/xgro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -->
-## Hi there 👋, I'm xgro!  
+# **이재찬 - Jaechan Lee**
+
+[![Linkedin: xgro](https://img.shields.io/badge/-Jaechan%20Lee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xgro/)](https://www.linkedin.com/in/xgro/)
+[![GitHub xgro](https://img.shields.io/github/followers/xgro?label=follow&style=social)](https://github.com/xgro)
+
 
 ### **Thank you to visit my Github, My name is Jaechan. Glad to see you here!** 
 - My major is **electronic engineering**
 - I have project exprience using C, Python, Labview language.
-- I'm interested in **DevOps.**   
+- I'm interested in **DevOps.**
 - I am preparing for a job change as a **DevOps engineer** and participating in a **Codestates-bootcamp.**
 
 </br>
 
-## Summary
+## **Summary**
 - 🔭 I have been developing **BMS firmware**
 
 - 🌱 I’m currently learning DevOps with **C, Labview** language.
@@ -21,33 +25,9 @@
 
 - ⚡ I'm good with **Computer**
 
-</td></tr>
-<br/> 
-<br/> 
+</br>
 
+## **Github Stats**  
 
-## Github Stats  
-<table><tr><td valign="top" width="40%" >
-<img src="https://github-readme-stats.vercel.app/api?username=xgro&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 90%" />
-</td><td valign="top" width="35%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xgro&hide_border=true&layout=compact" align="left" style="width: 90%" />
-</td></tr></table>  
+<img src="https://github-readme-stats.vercel.app/api?username=xgro&show_icons=true&count_private=true&hide_border=true"  align="left" style="width: 60%" />
 
-<br>  
-<br>
-
-
-## Contact me
-
-<a href="https://github.com/xgro" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/xgrooo" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/xgro" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/users/18813970/xgro" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
